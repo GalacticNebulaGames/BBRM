@@ -10,7 +10,7 @@
 | Feature Lock    | 16/10/2025                  |
 | Release         | 16/10/2025                     |
 
-## [Play Baldi Gaame](https://galacticnebulagames.github.io/BBRM/)
+## [Play Baldi Game](https://galacticnebulagames.github.io/BBRM/)
 
 ## Theme
 
